@@ -45,7 +45,7 @@ $ git update-index —assume-unchanged piechart_bayes_data/NetFiles/
 ```
 
 
-======================================================================================
+=================================================================
 
 SimpleNLG is required to run the Lexicom, instructions can be found here
 https://github.com/simplenlg/simplenlg/wiki
