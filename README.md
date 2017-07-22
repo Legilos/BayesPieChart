@@ -48,6 +48,7 @@ SimpleNLG is required to run the Lexicom, instructions can be found here
 https://github.com/simplenlg/simplenlg/wiki
 
 Install the .jar file into eclipse in order to use it properly.  
+
 This site provides the lexicom as a .jar file for ease of use:
 https://jar-download.com/explore-java-source-code.php?a=SimpleNLG&g=uk.ac.abdn&v=4.4.8&downloadable=1
 
